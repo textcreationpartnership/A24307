@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of a fight between the French and Irish for refusing to admit the French to be governors of Cork and Waterford in Ireland in a letter from an officer in Ireland to his friend in London.</title>
+            <author>Officer in Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24307</idno>
+            <idno type="STC">Wing A180</idno>
+            <idno type="STC">ESTC R6185</idno>
+            <idno type="EEBO-CITATION">11510307</idno>
+            <idno type="OCLC">ocm 11510307</idno>
+            <idno type="VID">47859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47859)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of a fight between the French and Irish for refusing to admit the French to be governors of Cork and Waterford in Ireland in a letter from an officer in Ireland to his friend in London.</title>
+                  <author>Officer in Ireland.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed, Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691 --  Campaigns.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:47859:1"/>
+            <head>AN ACCOUNT OF A FIGHT Between the French and Iriſh, FOR Refuſing to admit the <hi>French</hi> to be Governors of <hi>CORK</hi> and <hi>WATERFORD</hi> in <hi>Ireland.</hi> IN A LETTER from an Officer in <hi>Ireland,</hi> to his Friend in <hi>London.</hi>
+            </head>
+            <argument>
+               <p>Licenſed and Entred according to Order.</p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU know <hi>Cork</hi> for its Harbour and conſide<g ref="char:EOLhyphen"/>rable Strength, has been lookt upon a place of ſuch moment and con<g ref="char:EOLhyphen"/>cern, that the Earl of <hi>Tyrconnel</hi> ſecur'd it one of the firſt in the <hi>Southern</hi> Parts of the Kingdom, and committed it in<g ref="char:EOLhyphen"/>to the hands of Major-General <hi>Juſtin Maccarty,</hi> as to one whoſe Intereſt in that Country, and Reſolution for K. <hi>James</hi>'s Cauſe, had rendred the moſt qualified perſon for ſuch an important Command, he took poſſeſſion of the place as Governour; where he acquit<g ref="char:EOLhyphen"/>ted himſelf with ſo much moderation and evenneſs of temper towards the Proteſtants there, that thoſe poor Peo<g ref="char:EOLhyphen"/>ple found that Protection from him, which many others had been deceived in the expectation of from ſome of their Great Officers: This generous Demeanour not ſuiting the Inſtructi<g ref="char:EOLhyphen"/>ons which Monſieur <hi>D' Avaux</hi> had received from his Maſter, the <hi>French</hi> King, he ſo far prevailed as to have one of his Country-men, call'd Mon<g ref="char:EOLhyphen"/>ſieur <hi>Lanoo,</hi> put into the Major-Ge<g ref="char:EOLhyphen"/>neral's place, publickly declaring, That it was not conſiſtent with His Chriſtian Majeſty's Intereſts, that ſuch a Key to the Kingdom as that City is, ſhould be in other hands, than thoſe whoſe endeavours to extirpate Hereticks might give demonſtrations of their ſincerity to the Cauſe. Well fraughted then with Directions, <hi>Lanoo</hi> takes his Journey towards <hi>Cork,</hi> where being admitted, he produc'd his Com<g ref="char:EOLhyphen"/>miſſion to the Major-General, telling him, That he expected an immediate Reſignation of that place unto him, for the <hi>French-man</hi>'s uſe: <hi>Maccarty</hi> having been always lookt upon with an eſteem ſuitable to his Merit, and
+<pb n="2" facs="tcp:47859:2"/>not uſed to ſuch Demands, could not receive them without ſome ſurprize, but recollecting himſelf with a great deal of briskneſs, which is natural un<g ref="char:EOLhyphen"/>to him, he told <hi>Lanoo,</hi> He knew him<g ref="char:EOLhyphen"/>ſelf as capable of ſuch a Truſt as any <hi>French-man</hi> whatever; and that he would maintain that Garriſon with the laſt drop of his Blood, for His Ma<g ref="char:EOLhyphen"/>jeſty's Service, and that ſeeing how ſuch new Commiſſions were obtain'd, he did not think himſelf oblig'd to take any farther notice of them; and this he told Monſieur was his final Reſoluti<g ref="char:EOLhyphen"/>on. The <hi>French-man</hi> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ba<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked in his expectatio<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, grew angry, and us'd ſuch expreſſions to the Governour, as oblig'd him to demand that Satis<g ref="char:EOLhyphen"/>faction of him, which he might ex<g ref="char:EOLhyphen"/>pect for ſuch an Affr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt: He told him, the Garden was <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> place where they might ſuddainly, and privately end the Difference; and if he fell by his Sword, he might then produce his Commiſſion; and at once take poſſeſſion of the place, and be ſe<g ref="char:EOLhyphen"/>cur'd <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om any Affronts which might be put on him by the People: <hi>Lanoo</hi> accepted of the propoſal, and to it they went, but <hi>Maccarty</hi> was not us'd to be overcome, and ſtill main<g ref="char:EOLhyphen"/>tain'd the ſame Character, by wound<g ref="char:EOLhyphen"/>ing and the diſarming Monſieur, who having receiv'd his Sword from the Governour, leſt <hi>Cork</hi> with all the haſt and privacy he could to hide his Shame, and to return the Embaſſa<g ref="char:EOLhyphen"/>dor an Account how he had ſped his Commiſſion.</p>
+            <p>The manner of this Adventure was immediately ſpred through the whole Kingdom, and has ſo ani<g ref="char:EOLhyphen"/>mated ſeveral other Gentlemen, as to make them oppoſe themſelves to the open deſigns of the <hi>French,</hi> which we may believe by the following Ac<g ref="char:EOLhyphen"/>count, of the Earl of <hi>Tirone,</hi> who being Governour of <hi>Waterford,</hi> ſhut the Gates of the City againſt one <hi>Deſoigniers,</hi> who went with a Com<g ref="char:EOLhyphen"/>miſſion to be Governour there, and after another manner then <hi>Lanoo,</hi> had demanded the Keys of <hi>Cork,</hi> for he carried with him four hundred Men, but making his approaches to the Walls, he found the Gates ſhut a<g ref="char:EOLhyphen"/>gainſt him: And ſome Souldiers on the Walls, commanding him to Re<g ref="char:EOLhyphen"/>treat, if he would be out of the Danger of their Shot; for the Go<g ref="char:EOLhyphen"/>vernour was reſolv'd to continue that place in King <hi>James</hi>'s Hands, by ſe<g ref="char:EOLhyphen"/>curing is from the <hi>French</hi> Deſigns, which they ſo plainly ſaw into, that they juſtly apprehended the approach<g ref="char:EOLhyphen"/>ing Slavery, which ſuch Practices were like to draw upon them.</p>
+            <p>What the conſequences, Sir, of ſuch Diviſions will be, I leave to your own Judgment; only this I will add, That the Kingdom which is divided in it<g ref="char:EOLhyphen"/>ſelf is like to fall; and this Propheſie I aſſure you I have heard above four<g ref="char:EOLhyphen"/>teen years ago in <hi>Ireland,</hi> That the <hi>day would come, when the</hi> Iriſh <hi>ſhould weep over the</hi> Engliſh <hi>Graves;</hi> which I believe is not at this time untrue, ſince they now begin to find, that thoſe Aids which the <hi>French</hi> King gives them, are like thoſe which the Wolves in the Fable ſent to ſecure the Sheep, likelier to become their De<g ref="char:EOLhyphen"/>vourers than Guardians; whence we may reaſonably hope, that when thoſe long expected Succours are ſent from <hi>England</hi> thither, thoſe miſled People will diſcover more effectually their Reſentments of the <hi>French</hi> Politicks, which they ſo much apprehend al<g ref="char:EOLhyphen"/>ready, and the Felicities and Enjoy<g ref="char:EOLhyphen"/>ments which they found from the <hi>Engliſh</hi> Protection, by an Opportune Declaration for them, which we can<g ref="char:EOLhyphen"/>not expect, how violent ſoever their Inclinations be thereunto, until by their approaches they more power<g ref="char:EOLhyphen"/>fully influence, and enable them to return again to that Government, which a miſguided Zeal has occaſion<g ref="char:EOLhyphen"/>ed them to reject,</p>
+            <closer>
+               <signed>I am, Sir, Yours.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed: <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Richard Baldwin,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
